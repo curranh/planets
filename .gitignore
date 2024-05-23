@@ -1,1 +1,6 @@
 *.xlsx
+*.csv
+results/
+data/
+*.pdf
+scratch/
